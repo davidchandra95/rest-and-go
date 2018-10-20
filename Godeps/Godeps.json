@@ -1,0 +1,52 @@
+{
+	"ImportPath": "rest-and-go",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/dgrijalva/jwt-go",
+			"Comment": "v3.2.0-4-g3af4c74",
+			"Rev": "3af4c746e1c248ee8491a3e0c6f7a9cd831e95f8"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Comment": "v1.1.1-1-g51ce91d",
+			"Rev": "51ce91d2eaddeca0ef29a71d766bb3634dadf729"
+		},
+		{
+			"ImportPath": "github.com/gorilla/handlers",
+			"Comment": "v1.4.0-2-g350d97a",
+			"Rev": "350d97a79266938cd77a9192b7d995132d4e2b5b"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.6.2-10-gdeb579d",
+			"Rev": "deb579d6e030503f430978ee229008b9bc912d40"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2",
+			"Comment": "r2016.08.01-7-g9856a29",
+			"Rev": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/bson",
+			"Comment": "r2016.08.01-7-g9856a29",
+			"Rev": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/json",
+			"Comment": "r2016.08.01-7-g9856a29",
+			"Rev": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/sasl",
+			"Comment": "r2016.08.01-7-g9856a29",
+			"Rev": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/scram",
+			"Comment": "r2016.08.01-7-g9856a29",
+			"Rev": "9856a29383ce1c59f308dd1cf0363a79b5bef6b5"
+		}
+	]
+}
